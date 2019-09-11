@@ -3,7 +3,7 @@ PHP-HTML Web page with on load Background Music
 <br>
 *Selects and plays a song at random
 <br>
-*Plays another random song after one ends
+*Plays another random song after one ends (reloads page)
 <br>
 *Editable volume
 <br>
