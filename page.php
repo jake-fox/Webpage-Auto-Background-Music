@@ -5,33 +5,15 @@
 
 // WHAT MUSIC IS CURRENTLY PLAYING //
 $authors = array(
- 1 => 'Music provided by Argofox:
-Road Lizard - Interloper
-youtu.be/QLTGbAPZtFs',
- 2 => 'Music provided by Argofox: 
-Canonblade - Speed of Light 
-youtu.be/Ku6rPPzMjM0',
- 3 => 'Music provided by Argofox:
-Daniel Crawford - Taste This
-youtu.be/nGXpdhRBfCw',
- 4 => 'Music provided by Argofox:
-DavZ - Losing Yourself
-youtu.be/yYTGrElxYPE',
- 5 => 'Music provided by Argofox:
-Everous & Canonblade - Gleam
-youtu.be/_u2l-NpYxCI',
- 6 => 'Music provided by Argofox:
-Junklicious - Space Gelato
-youtu.be/NUFVcBKIGmc',
- 7 => 'Music provided by Argofox:
-Noxive - Monsters In My Head
-youtu.be/cwaXlAJAkW4',
- 8 => 'Music provided by Argofox:
-Rewayde - Bubbly
-youtu.be/Zw8g_aFUzFY',
- 9 => 'Music provided by Argofox:
-Sunpé - New Beginnings
-youtu.be/1ClKwu0duGM',
+ 1 => 'Music provided by ',
+ 2 => 'Music provided by ',
+ 3 => 'Music provided by ',
+ 4 => 'Music provided by ',
+ 5 => 'Music provided by ',
+ 6 => 'Music provided by ',
+ 7 => 'Music provided by ',
+ 8 => 'Music provided by ',
+ 9 => 'Music provided by ',
 
 );
 
