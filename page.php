@@ -92,7 +92,7 @@ aud.onended = function() {
 </body> 
 </head>
 <body>
-
+<?php echo $authors[$r];?>
     <script src="js/vendor/jquery-1.10.1.min.js"></script>
     <script src="js/vendor/bootstrap.min.js"></script>
     <script src="js/jquery.cycle2.min.js"></script>
